@@ -1,7 +1,11 @@
 {
-  "name": "",
+  "name": "personal-blogsite",
   "type": "module",
   "version": "0.0.1",
+  "author": {
+    "name": "najmynaim",
+    "email": "najmy786@gmail.com"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
